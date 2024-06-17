@@ -1,0 +1,14 @@
+{
+    "apimName": {
+        "value": "eurowingsapi-1-ew"
+    },
+    "environment": {
+        "value": "dv"
+    },
+    "location": {
+        "value": "centralus"
+    },
+    "resourceGroupName": {
+        "value": "eurowings-rg-ew-dv-cent"
+    }
+}

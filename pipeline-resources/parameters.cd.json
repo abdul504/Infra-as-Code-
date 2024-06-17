@@ -1,0 +1,11 @@
+{
+    "applicationName": {
+        "value": "customersapi"
+    },
+    "location": {
+        "value": "centralus"
+    },
+    "resourceGroupName": {
+        "value": "rg-customersapi-pl-cent"
+    }
+}

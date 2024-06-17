@@ -1,0 +1,26 @@
+{
+    "name": "Customers-api-v0",
+    "properties": {
+        "displayName": "Customers API",
+        "description": "This is the description for the Customers API",
+        "serviceUrl": "#{CostomersApiV0Url}#",
+        "apiVersion": "v0",
+        "apiVersionDescription": "In development",
+        "apiRevision": "6",
+        "apiRevisionDescription": "v0.#{Build.BuildNumber}# API",
+        "isCurrent": false,
+        "path": "denticon/patients",
+        "protocols": [
+            "https"
+        ],
+        "apiType": "http",
+        "format": "openapi+json-link",
+        "value": "#{CustomersApiV0Url}#/swagger/v0/swagger.json",
+        "subscriptionKeyParameterNames": {
+            "header": "EW-Subscription-Key",
+            "query": "subscription-key"
+        },
+        "subscriptionRequired": true,
+        "authenticationSettings": {}
+    }
+}

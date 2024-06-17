@@ -9,7 +9,7 @@ param keyVaultName string
 param userPrincipalIds array
 
 // Variables
-var secretsUserRoleId = '4633458b-17de-408a-b874-0445c86b69e6'
+var secretsUserRoleId = '00000000000000000000000'
 
 // Resources
 resource keyVault 'Microsoft.KeyVault/vaults@2022-07-01' existing = {
